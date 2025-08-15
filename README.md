@@ -3,7 +3,7 @@ I’m a Generative AI Engineer with a solid background in data science and a dee
 
 💡 Core Expertise
 
-Generative AI: LangChain, OpenAI APIs (GPT-4), Claude, AutoGen, LangGraph, Prompt Engineering (CoT, ReAct, RAG, Guardrails)
+Generative AI: LangChain, OpenAI APIs, Claude, AutoGen, LangGraph, Prompt Engineering (CoT, ReAct, RAG, Guardrails), AI-SDK
 Full-Stack AI Applications: Python, SQL, TypeScript, API integrations, Cloud Platforms (AWS, Azure)
 Machine Learning: NLP, computer vision, data engineering, feature engineering,PyTorch, TensorFlow, Scikit-learn, MLOps,cloud AI platforms and multi-agent systems.
 
