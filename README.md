@@ -1,5 +1,5 @@
 ## Hi I'm Jayanth 👋
-I’m a Generative AI Engineer with a solid background in data science and a deepening passion for creating agentic AI systems. My expertise lies in building end-to-end AI solutions that integrate large language models (LLMs), retrieval-augmented generation (RAG) workflows, and multi-agent orchestration to address real-world business challenges.
+I’m a Generative AI/ML Engineer with a solid background in data science and a deepening passion for creating agentic AI systems. My expertise lies in building end-to-end AI solutions that integrate large language models (LLMs), retrieval-augmented generation (RAG) workflows, and multi-agent orchestration to address real-world business challenges.
 
 💡 Core Expertise
 
