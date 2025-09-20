@@ -9,7 +9,7 @@ Machine Learning: NLP, computer vision, data engineering, feature engineering,Py
 
 Currently, my focus is on designing intelligent agent architectures that combine LLM reasoning, structured retrieval pipelines, and real-time data to deliver scalable, reliable, and high-impact AI systems.
 
-🛠 Open to
+🛠 Open to  
 AI/ML Engineering,  
 Agentic System Development,  
 Full-Stack Generative AI Roles
