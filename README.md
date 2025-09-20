@@ -1,4 +1,4 @@
-## Hi I'm Jayanth 👋
+## Hi I'm Jayanth 👋 ![](https://komarev.com/ghpvc/?username=wassupjay)
 I’m a Generative AI/ML Engineer with a solid background in data science and a deepening passion for creating agentic AI systems. My expertise lies in building end-to-end AI solutions that integrate large language models (LLMs), retrieval-augmented generation (RAG) workflows, and multi-agent orchestration to address real-world business challenges.
 
 💡 Core Expertise
