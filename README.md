@@ -5,7 +5,7 @@ I’m a Generative AI/ML Engineer with a solid background in data science and a 
 
 Generative AI: LangChain, OpenAI APIs, Claude, AutoGen, LangGraph, Prompt Engineering (CoT, ReAct, RAG, Guardrails), AI-SDK.  
 Full-Stack AI Applications: Python, SQL, TypeScript, FastAPI, API integrations, Cloud Platforms (AWS, Azure)  
-Machine Learning: NLP, computer vision, data engineering, feature engineering,PyTorch, TensorFlow, Scikit-learn, MLOps,cloud AI platforms and multi-agent systems.  
+Machine Learning: NLP, PyTorch, TensorFlow, computer vision, data engineering, feature engineering, Scikit-learn, MLOps,cloud AI platforms and multi-agent systems.  
 Data & Embeddings: Tokenization, Embedding generation, Vector Databases (Pinecone, Milvus, ChromaDB,Weaviate, ect.)    
 
 Currently, my focus is on designing intelligent agent architectures that combine LLM reasoning, structured retrieval pipelines, and real-time data to deliver scalable, reliable, and high-impact AI systems.
