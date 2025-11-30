@@ -1,6 +1,8 @@
 ## Hi I'm Jayanth 👋                     ![](https://komarev.com/ghpvc/?username=wassupjay)
 
 Driven by curiosity and collaboration, I’m always looking to contribute to innovative products that move AI technology forward.
+
+Open to opportunities. 
 <!--
 **wassupjay/wassupjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
