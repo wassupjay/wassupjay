@@ -2,7 +2,7 @@
 
 Driven by curiosity and collaboration, I’m always looking to contribute to innovative products that move AI technology forward.
 
-Checkout My apps: Streakmaster.app, 
+Checkout My apps: www.Streakmaster.app , 
 
 Open to opportunities. 
 <!--
