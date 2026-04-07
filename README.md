@@ -4,7 +4,7 @@ Driven by curiosity and collaboration, I’m always looking to contribute to inn
 
 Checkout My apps: www.Streakmaster.app , 
 
-Open to opportunities. Reach me at: contact@jayanth.dev or visit my website: jayanth.dev
+Open to opportunities💼. Reach me at: contact@jayanth.dev
 <!--
 **wassupjay/wassupjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
